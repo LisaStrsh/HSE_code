@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="05_06_sem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem1_sum">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem1_sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem1_sum"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem1_sum/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem1_sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem1_sum/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem2_copy">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem2_copy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem2_copy"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem2_copy/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem2_copy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem2_copy/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem3_statictics">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem3_statictics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem3_statictics"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem3_statictics/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem3_statictics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem3_statictics/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem4_replace">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem4_replace" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem4_replace"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem4_replace/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem4_replace" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem4_replace/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem5_reverse">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem5_reverse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem5_reverse"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem5_reverse/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem5_reverse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem5_reverse/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem6_line">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem6_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem6_line"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem6_line/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem6_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem6_line/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem7_blank">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem7_blank" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem7_blank"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem7_blank/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem7_blank" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem7_blank/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem8_append">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem8_append" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem8_append"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem8_append/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem8_append" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem8_append/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem9_byte">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem9_byte" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem9_byte"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem9_byte/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem9_byte" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem9_byte/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem10_change">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem10_change" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem10_change"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem10_change/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem10_change" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem10_change/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem11_cipher">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem11_cipher" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem11_cipher"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem11_cipher/fast">
+				<Option output="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/problem11_cipher" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem11_cipher/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem10_change/main.cpp">
+			<Option target="problem10_change"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem11_cipher/main.cpp">
+			<Option target="problem11_cipher"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem1_sum/main.cpp">
+			<Option target="problem1_sum"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem2_copy/main.cpp">
+			<Option target="problem2_copy"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem3_statictics/main.cpp">
+			<Option target="problem3_statictics"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem4_replace/main.cpp">
+			<Option target="problem4_replace"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem5_reverse/main.cpp">
+			<Option target="problem5_reverse"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem6_line/main.cpp">
+			<Option target="problem6_line"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem7_blank/main.cpp">
+			<Option target="problem7_blank"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem8_append/main.cpp">
+			<Option target="problem8_append"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/problem9_byte/main.cpp">
+			<Option target="problem9_byte"/>
+		</Unit>
+		<Unit filename="/Users/elizabethstorozheva/CLionProjects/dsba_c_ples_ples_course/2023_2024_2nd_sem/week5/09_10_sem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

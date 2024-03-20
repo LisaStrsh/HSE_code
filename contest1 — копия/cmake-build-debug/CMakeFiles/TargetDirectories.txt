@@ -1,0 +1,10 @@
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/ProblemA.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/ProblemB.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/ProblemC.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/ProblemD.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/ProblemE.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/ProblemF.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/ProblemG.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/ProblemH.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elizabethstorozheva/CLionProjects/C-plus-plus-2024/contest1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

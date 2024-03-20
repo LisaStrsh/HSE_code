@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../course_c_plus_23_24-1/2023_2024_2nd_sem/week6/11_12_sem"
+		},
+		{
+			"path": "contest3"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp"
+		}
+	}
+}
