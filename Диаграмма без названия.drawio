@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T19:31:12.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="lUNim_96JdNe8MSb9Lx7" version="24.2.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-23T19:32:35.009Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="fqh_hJrmkRVwBxvNjynB" version="24.2.8" type="github" pages="10">
   <diagram name="---------" id="jyuE4WrtrYCrk_ftY6HL">
     <mxGraphModel dx="1183" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1074,7 +1074,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="IiFRITtUKj-HYyG1wrqE" name="Страница — 8">
+  <diagram id="IiFRITtUKj-HYyG1wrqE" name="User page">
     <mxGraphModel dx="1183" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1178,7 +1178,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="pCtQ06g2LklYttzOjxB4" name="Страница — 9">
+  <diagram id="pCtQ06g2LklYttzOjxB4" name="Films/Shows/Kids">
     <mxGraphModel dx="1183" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
